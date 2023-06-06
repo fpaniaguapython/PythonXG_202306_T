@@ -7,7 +7,7 @@ ticket = "2023$06$06$19$14"
 partes = ticket.split("$")
 print(partes)
 
-ticket = "2022$-01$-08$-10$-12"
+ticket = "2021$-01$-08$-10$-12"
 partes = ticket.split("$-")
 print(partes)
 
