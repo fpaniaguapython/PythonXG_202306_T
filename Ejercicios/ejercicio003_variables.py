@@ -22,3 +22,9 @@ porcentaje = 3.2 #Tipo float
 descansando = True #Tipo bool (True False)
 
 salario = 100_000_000
+
+姓名 = "Fernando"
+print(姓名)
+
+dimensión = 100
+print(dimensión)
