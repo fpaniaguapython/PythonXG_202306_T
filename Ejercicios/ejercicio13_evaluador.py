@@ -37,3 +37,4 @@ if mayor_edad and altura_suficiente and conoce_idioma and no_contiene_letra_proh
     print("Contratado")
 else:
     print("No cumple los requisitos")  
+
