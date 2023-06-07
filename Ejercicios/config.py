@@ -1,0 +1,1 @@
+MAYORIA_EDAD = 18
