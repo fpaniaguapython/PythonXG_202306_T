@@ -44,3 +44,6 @@ https://realpython.com/python-getter-setter/
 
 INTERFACES
 https://realpython.com/python-interface/
+
+CONDICIONALES - NIVEL XXL
+https://aprendepython.es/core/controlflow/conditionals/
