@@ -88,7 +88,3 @@ restaurantes = [restaurante1, restaurante2, restaurante3]
 restaurantes_ordenados = sorted(restaurantes,key=calificar_restaurante,reverse=True)#Genera una lista ordenada
 print(restaurantes)
 print(restaurantes_ordenados)
-
-
-
-
