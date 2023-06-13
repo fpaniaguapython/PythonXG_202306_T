@@ -1,0 +1,2 @@
+def ayuda():
+    print("Ayudando...")

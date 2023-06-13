@@ -1,0 +1,1 @@
+print("Configurando el paquete 'ayudas'")
