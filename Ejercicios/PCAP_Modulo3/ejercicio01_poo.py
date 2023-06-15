@@ -8,7 +8,7 @@ métodos -> Cada una de las acciones que puede realizar un objeto de una clase; 
 
 instanciar -> Crear una instancia o un objeto a partir de llamar a la clase (en este ejemplo Tractor) pasando los valores que espera el constructor
 
-solo puede haber un __init__ (constructor)
+* (parcialmente correcto) solo puede haber un __init__ (constructor)
 '''
 class Tractor:
     def __init__(self, _nombre, _color, _marca):#Constructor
@@ -42,4 +42,3 @@ tractor1.arrancar()#Invocación a un método
 tractor1.desplazar(1,1)#Invocación a un método
 tractor1.repostar(3)#Invocación a un método
 tractor1.desplazar(1,1)#Invocación a un método
-
